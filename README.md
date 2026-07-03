@@ -29,9 +29,9 @@ Every list is built from **first-party data**: the VPN provider's own published 
 
 ```
 $ head -3 mullvad.txt
-31.171.153.66
-31.171.154.50
-37.19.196.65
+23.159.216.3
+23.159.216.127
+23.160.24.3
 ```
 
 ## Notes & caveats
