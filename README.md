@@ -1,4 +1,4 @@
-# open-source-vpn-ip-lists
+# Open Source VPN IP Lists
 
 Server / egress IP lists for major commercial VPN services — **one plain-text file per service**, one IP per line.
 
