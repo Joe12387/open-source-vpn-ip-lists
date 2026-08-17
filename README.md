@@ -4,7 +4,7 @@ Server / egress IP lists for major commercial VPN services — **one plain-text 
 
 Every list is built from **first-party data** published by the VPN provider itself — not from third-party scraping, flow analysis, or GeoIP guesswork. If an IP is in a list, the provider itself said "this is one of our servers."
 
-**Last updated:** 2026-08-16 · **Total IPs:** 16,669
+**Last updated:** 2026-08-17 · **Total IPs:** 16,493
 
 ## Lists
 
@@ -13,12 +13,12 @@ Every list is built from **first-party data** published by the VPN provider itse
 | [airvpn.txt](airvpn.txt) | AirVPN | 1,028 | 1,028 |
 | [ivpn.txt](ivpn.txt) | IVPN | 264 | — |
 | [mullvad.txt](mullvad.txt) | Mullvad | 587 | 577 |
-| [nordvpn.txt](nordvpn.txt) | NordVPN | 8,830 | — |
+| [nordvpn.txt](nordvpn.txt) | NordVPN | 8,961 | — |
 | [ovpn.txt](ovpn.txt) | OVPN.com | 96 | — |
-| [pia.txt](pia.txt) | Private Internet Access | 1,480 | — |
+| [pia.txt](pia.txt) | Private Internet Access | 1,172 | — |
 | [protonvpn.txt](protonvpn.txt) | ProtonVPN | 1,419 | — |
 | [riseupvpn.txt](riseupvpn.txt) | RiseupVPN | 20 | — |
-| [surfshark.txt](surfshark.txt) | Surfshark | 281 | — |
+| [surfshark.txt](surfshark.txt) | Surfshark | 282 | — |
 | [windscribe.txt](windscribe.txt) | Windscribe | 1,059 | — |
 
 ## Format
